@@ -20,3 +20,5 @@ Here do debuggung but I have not succeeded there is 1 class that is still an err
 #Q5
 here I was instructed to implement the ui from figma into Android Studio, I used several libraries to create a calendar.
 but for the daily task view I can't implement it yet, maybe if there is a time I want to use the library that I just found or I want to make it static using the recycleview only to display the appropriate and the same view
+
+Liblary used for calender -> com.michalsvec:single-row-calednar:1.0.0
